@@ -26,7 +26,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "KidozAdmobAdapter",
-            path: "XCFramework/KidozAdmobAdapter.xcframework",
+            path: "XCFramework/KidozAdmobAdapter.xcframework"
         )
     ]
 )
